@@ -1,0 +1,32 @@
+{
+  "name": "hostbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "better-sqlite3": "^7.1.0",
+    "del": "^6.0.0",
+    "discord-radio-player": "^1.6.0",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.3.1",
+    "discord.js-akago": "^2.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fortnite": "^4.3.2",
+    "fortnitetracker-7days-stats": "^3.3.1",
+    "google": "^2.1.0",
+    "googleapis": "^39.2.0",
+    "matchmaking": "^0.4.32",
+    "nodemon": "^2.0.4",
+    "pwd-phrase": "^2.3.1",
+    "quick.db": "^7.1.3",
+    "random-passwords-generator": "^1.0.5",
+    "simple-matchmaker": "^1.0.2",
+    "ytdl-core": "^2.1.7"
+  }
+}
